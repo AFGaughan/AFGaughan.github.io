@@ -4,6 +4,4 @@ title: About
 permalink: /about
 ---
 
-Hi, Write an awesome description about your blog here.  
-Feel free to make it a bit more interesting by adding a picture or two.  
-Only limit here is your creativity and imagination. Unleash them with full force.  
+Hello. I am Abigail Gaughan, and I am a History Major. This is my record for my time at the Digital Humanities Summer Institute in Montreal. I am taking the course Text Encoding Fundamentals.
