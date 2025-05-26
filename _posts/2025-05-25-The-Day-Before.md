@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post 
 title: The Day Before
 categories: [content, demo]
 ---
