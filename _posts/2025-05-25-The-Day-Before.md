@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introduction
+title: The Day Before
 categories: [content, demo]
 ---
 
